@@ -7,8 +7,6 @@ venv/
 .env
 
 # Data and artifacts
-dataset/
-output/
 *.parquet
 
 # Editor / OS
