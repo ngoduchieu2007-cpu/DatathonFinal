@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Data and artifacts
+dataset/
+output/
+*.parquet
+
+# Editor / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
